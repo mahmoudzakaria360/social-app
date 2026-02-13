@@ -1,7 +1,7 @@
 import { Link, useNavigate } from 'react-router-dom';
 import styles from './Navbar.module.css';
 import { useContext } from 'react';
-import { userData } from '../../Context/UserData';
+import { userData } from '../../context/UserData';
 
 export default function Navbar() {
   const navigate = useNavigate();
