@@ -1,4 +1,3 @@
-import './Footer.module.css';
 // --- IGNORE ---
 export default function Footer() {
   return (
