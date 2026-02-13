@@ -6,7 +6,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 // import useContext and userData context
 import { useContext, useState } from 'react';
-import { userData } from '../../Context/userData';
+import { userData } from '../../Context/UserData';
 
 //  get started with code
 //validation schema

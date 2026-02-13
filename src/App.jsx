@@ -5,7 +5,7 @@ import Profile from './pages/Profile/Profile.jsx';
 import Register from './pages/Register/Register.jsx';
 import NotFound from './pages/NotFound/NotFound.jsx';
 import Login from './pages/Login/Login.jsx';
-import { UserDataProvider } from './Context/userData.jsx';
+import { UserDataProvider } from './Context/UserData.jsx';
 import ProtectedRoute from './components/ProtectedRoute/ProtectedRoute.jsx';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools';
